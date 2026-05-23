@@ -1,21 +1,21 @@
-# 📊 HR Analytics Dashboard - Employee Attrition Analysis
+#  HR Analytics Dashboard - Employee Attrition Analysis
 
 An interactive HR Analytics dashboard built using **Streamlit, Pandas, and Plotly** to analyze employee attrition trends, workforce behavior, and HR insights.
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 **View Live Dashboard:**  
 https://hr-analytics-dashboard-employee-attrition.streamlit.app/
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project provides an interactive HR analytics dashboard to explore employee attrition patterns and workforce insights. Users can dynamically filter the data and visualize trends related to department, gender, overtime, job satisfaction, income, and age.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Interactive sidebar filters
 - Department-wise attrition analysis
@@ -34,7 +34,7 @@ This project provides an interactive HR analytics dashboard to explore employee 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - Streamlit
@@ -43,7 +43,7 @@ This project provides an interactive HR analytics dashboard to explore employee 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **IBM HR Analytics Employee Attrition Dataset**
 
@@ -51,7 +51,7 @@ Source: Kaggle / IBM HR Analytics Dataset
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 HR-Analytics-Dashboard-Employee-Attrition/
@@ -66,7 +66,7 @@ HR-Analytics-Dashboard-Employee-Attrition/
 
 ---
 
-## ⚙️ Installation & Run Locally
+##  Installation & Run Locally
 
 ### Clone repository
 
@@ -94,7 +94,7 @@ streamlit run app.py
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Research & Development and Sales show higher attrition levels.
 - Employees working overtime are more likely to leave.
@@ -103,7 +103,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 - HR workforce analytics
 - Employee retention strategy
@@ -113,7 +113,7 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Lubna Shireen R**
 
