@@ -115,7 +115,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Lubna Shireen**
+**Lubna Shireen R**
 
 
 ## ⭐ Support
