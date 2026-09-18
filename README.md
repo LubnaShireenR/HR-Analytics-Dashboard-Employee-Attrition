@@ -113,9 +113,10 @@ streamlit run app.py
 
 ---
 
-##  Author
+## 👩‍💻 Developed By
 
 **Lubna Shireen R**
+**Student | Data Enthusiast | Learner**
 
 
 ## ⭐ Support
